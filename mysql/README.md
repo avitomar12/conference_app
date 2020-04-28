@@ -1,4 +1,4 @@
-# MySQL Course Setup
+# MySQL Setup
 
 Open MySQL CLI in your terminal:
 
