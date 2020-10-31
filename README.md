@@ -1,2 +1,4 @@
 # conference_app
-spring boot application
+
+- Spring boot application with curd functionality
+- Developed while learning spring boot from pluralsight 
